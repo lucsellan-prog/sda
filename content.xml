@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202604011708160QSR88</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260401170816OMQFEY</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Situación de Aprendizaje</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775053961175</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>23497e45-3294-4f26-949c-803854c18fa7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Compras en el centro comercial: un reto con números decimales. Descripción de la SdA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Compras en el centro comercial: un reto con números decimales. Descripción de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Compras en el centro comercial: un reto con números decimales. Descripción de la SdA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>23497e45-3294-4f26-949c-803854c18fa7</odePageId>
+      <odeBlockId>block-1775049997625-1tgysc0eq</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>23497e45-3294-4f26-949c-803854c18fa7</odePageId>
+          <odeBlockId>block-1775049997625-1tgysc0eq</odeBlockId>
+          <odeIdeviceId>idevice-1775049997624-69fcui29s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Etapa: </strong>Educación Primaria</li>
+<li><strong>Nivel: </strong>5º de Educación Primaria </li>
+<li><strong>Área principal: </strong>Matemáticas<br /></li>
+<li><strong>Áreas relacionadas: </strong>Lengua Castellana y Literatura</li>
+<li><strong>Temporalización: </strong>4 sesiones</li>
+<li><strong>Siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), se utilizarán distintos tipos de agrupamiento: </strong></li>
+</ul>
+<ul style="list-style-type: circle;">
+<li>Trabajo individual:Resolución de operaciones básicas (sumas, restas y multiplicaciones)</li>
+<li>Trabajo en parejas:Actividades guiadas de cálculo y comprobación de resultados</li>
+<li>Trabajo en pequeños grupos (4-5 alumnos):Elaboración de la lista de compra y desarrollo de productos  (Infografía y Podcast). </li>
+<li>Gran grupo:Presentación de la situación de aprendizaje<br /></li>
+</ul>
+<ul>
+<li><strong>Herramientas tecnológicas que usarán docentes y alumnado: </strong></li>
+</ul>
+<ul style="list-style-type: circle;">
+<li>Canva : creación de la infografía.</li>
+<li>Genially: elementos interactivos</li>
+<li>Audacity: grabación  y edición de podcast </li>
+<li>Pizarra Digital Interactiva</li>
+<li>Office 365: Microsoft Teams</li>
+</ul>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775049997624-69fcui29s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Etapa: </strong>Educación Primaria</li>\n<li><strong>Nivel: </strong>5º de Educación Primaria </li>\n<li><strong>Área principal: </strong>Matemáticas<br /></li>\n<li><strong>Áreas relacionadas: </strong>Lengua Castellana y Literatura</li>\n<li><strong>Temporalización: </strong>4 sesiones</li>\n<li><strong>Siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), se utilizarán distintos tipos de agrupamiento: </strong></li>\n</ul>\n<ul style=\"list-style-type: circle;\">\n<li>Trabajo individual:Resolución de operaciones básicas (sumas, restas y multiplicaciones)</li>\n<li>Trabajo en parejas:Actividades guiadas de cálculo y comprobación de resultados</li>\n<li>Trabajo en pequeños grupos (4-5 alumnos):Elaboración de la lista de compra y desarrollo de productos  (Infografía y Podcast). </li>\n<li>Gran grupo:Presentación de la situación de aprendizaje<br /></li>\n</ul>\n<ul>\n<li><strong>Herramientas tecnológicas que usarán docentes y alumnado: </strong></li>\n</ul>\n<ul style=\"list-style-type: circle;\">\n<li>Canva : creación de la infografía.</li>\n<li>Genially: elementos interactivos</li>\n<li>Audacity: grabación  y edición de podcast </li>\n<li>Pizarra Digital Interactiva</li>\n<li>Office 365: Microsoft Teams</li>\n</ul>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775049581088-aq35f6myk</odePageId>
+  <odeParentPageId>23497e45-3294-4f26-949c-803854c18fa7</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775049581088-aq35f6myk</odePageId>
+      <odeBlockId>block-1775051177277-33kswhs5z</odeBlockId>
+      <blockName>Justificación de su desarrollo y el impacto esperado. Relación de la SdA con los ODS y Retos del S.XXI</blockName>
+      <iconName>objetives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775049581088-aq35f6myk</odePageId>
+          <odeBlockId>block-1775051177277-33kswhs5z</odeBlockId>
+          <odeIdeviceId>idevice-1775051177276-e8obyork5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Justificación de su desarrollo y el impacto esperado</strong><strong></strong><strong></strong></p>
+<p style="text-align: justify;">La presente situación de aprendizaje tiene como finalidad desarrollar en el alumnado la capacidad de utilizar los números decimales en contextos reales y significativos, a través de una actividad cercana como es la realización de compras en un centro comercial.</p>
+<p style="text-align: justify;">Su desarrollo se justifica en la necesidad de fomentar un aprendizaje funcional y aplicado, en el que el alumnado no solo adquiera contenidos matemáticos (suma, resta y multiplicación de números decimales), sino que sea capaz de utilizarlos en situaciones cotidianas, favoreciendo así la comprensión y transferencia del conocimiento.</p>
+<p style="text-align: justify;">Asimismo, esta propuesta contribuye al desarrollo de la competencia digital, mediante el uso de herramientas como Canva y Genially, así como al fomento del trabajo cooperativo, la autonomía y la toma de decisiones.</p>
+<p style="text-align: justify;">El impacto esperado es que el alumnado:</p>
+<ul>
+<li style="text-align: justify;">Mejore su capacidad de cálculo y razonamiento matemático.</li>
+<li style="text-align: justify;">Aplique los aprendizajes en situaciones reales relacionadas con el uso del dinero.</li>
+<li style="text-align: justify;">Desarrolle habilidades de organización, planificación y toma de decisiones.</li>
+<li style="text-align: justify;">Potencie su competencia digital y creatividad mediante la elaboración de productos propios.</li>
+<li style="text-align: justify;">Aumente su motivación hacia el aprendizaje al trabajar en un contexto cercano y significativo.</li>
+</ul>
+<p><strong>Relación de la SdA con los ODS y Retos del siglo XXI. </strong></p>
+<p>Esta situación de aprendizaje se relaciona con los siguientes <strong>Objetivos de Desarrollo Sostenible (ODS)</strong>:</p>
+<p><strong>ODS 4:</strong> Educación de calidad, al promover un aprendizaje inclusivo, competencial y significativo, centrado en la resolución de problemas y el desarrollo de habilidades clave.<br /><strong>ODS 12:</strong> Producción y consumo responsables, al fomentar en el alumnado la reflexión sobre el uso del dinero, la toma de decisiones de compra y el consumo consciente.</p>
+<p><br />En relación con los <strong>retos del siglo XXI</strong>, esta propuesta contribuye al desarrollo de competencias esenciales como:</p>
+<p>- Desarrollar hábitos de vida saludable. </p>
+<p>- Cooperar y convivir en una sociedad diversa. </p>
+<p>- Formar parte de un proyecto colectivo. </p>
+<p><strong></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775051177276-e8obyork5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Justificación de su desarrollo y el impacto esperado</strong><strong></strong><strong></strong></p>\n<p style=\"text-align: justify;\">La presente situación de aprendizaje tiene como finalidad desarrollar en el alumnado la capacidad de utilizar los números decimales en contextos reales y significativos, a través de una actividad cercana como es la realización de compras en un centro comercial.</p>\n<p style=\"text-align: justify;\">Su desarrollo se justifica en la necesidad de fomentar un aprendizaje funcional y aplicado, en el que el alumnado no solo adquiera contenidos matemáticos (suma, resta y multiplicación de números decimales), sino que sea capaz de utilizarlos en situaciones cotidianas, favoreciendo así la comprensión y transferencia del conocimiento.</p>\n<p style=\"text-align: justify;\">Asimismo, esta propuesta contribuye al desarrollo de la competencia digital, mediante el uso de herramientas como Canva y Genially, así como al fomento del trabajo cooperativo, la autonomía y la toma de decisiones.</p>\n<p style=\"text-align: justify;\">El impacto esperado es que el alumnado:</p>\n<ul>\n<li style=\"text-align: justify;\">Mejore su capacidad de cálculo y razonamiento matemático.</li>\n<li style=\"text-align: justify;\">Aplique los aprendizajes en situaciones reales relacionadas con el uso del dinero.</li>\n<li style=\"text-align: justify;\">Desarrolle habilidades de organización, planificación y toma de decisiones.</li>\n<li style=\"text-align: justify;\">Potencie su competencia digital y creatividad mediante la elaboración de productos propios.</li>\n<li style=\"text-align: justify;\">Aumente su motivación hacia el aprendizaje al trabajar en un contexto cercano y significativo.</li>\n</ul>\n<p><strong>Relación de la SdA con los ODS y Retos del siglo XXI. </strong></p>\n<p>Esta situación de aprendizaje se relaciona con los siguientes <strong>Objetivos de Desarrollo Sostenible (ODS)</strong>:</p>\n<p><strong>ODS 4:</strong> Educación de calidad, al promover un aprendizaje inclusivo, competencial y significativo, centrado en la resolución de problemas y el desarrollo de habilidades clave.<br /><strong>ODS 12:</strong> Producción y consumo responsables, al fomentar en el alumnado la reflexión sobre el uso del dinero, la toma de decisiones de compra y el consumo consciente.</p>\n<p><br />En relación con los <strong>retos del siglo XXI</strong>, esta propuesta contribuye al desarrollo de competencias esenciales como:</p>\n<p>- Desarrollar hábitos de vida saludable. </p>\n<p>- Cooperar y convivir en una sociedad diversa. </p>\n<p>- Formar parte de un proyecto colectivo. </p>\n<p><strong></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775049593895-j8yjq0ztx</odePageId>
+  <odeParentPageId>23497e45-3294-4f26-949c-803854c18fa7</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775049593895-j8yjq0ztx</odePageId>
+      <odeBlockId>block-1775051619565-c73v0kqyl</odeBlockId>
+      <blockName>ELEMENTOS CURRICULARES</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775049593895-j8yjq0ztx</odePageId>
+          <odeBlockId>block-1775051619565-c73v0kqyl</odeBlockId>
+          <odeIdeviceId>idevice-1775051619564-4kk9unwgf</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body">
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775051619564-4kk9unwgf"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+        <odeComponent>
+          <odePageId>page-1775049593895-j8yjq0ztx</odePageId>
+          <odeBlockId>block-1775051619565-c73v0kqyl</odeBlockId>
+          <odeIdeviceId>idevice-1775054037743-ure2fw9yd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Competencias clave (descriptores operativos/perfil de salida). </li>
+</ul>
+<table border="1" style="width: 100.049%; border-color: #2dc26b; border-style: solid; height: 513.071px;">
+<tbody>
+<tr style="height: 95.4141px;">
+<td style="width: 49.9157%; height: 95.4141px;"><strong>Competencias Clave</strong></td>
+<td style="width: 49.9157%; height: 95.4141px;"><strong>Descriptores Operativos </strong>(Vinculados a las Competencias Específicas trabajadas en la SdA)</td>
+</tr>
+<tr style="height: 66.6094px;">
+<td style="width: 49.9157%; height: 66.6094px;">Competencia en comunicación lingüística (CCL</td>
+<td style="width: 49.9157%; height: 66.6094px;">CCL1, CCL2, CCL3, CCL5</td>
+</tr>
+<tr style="height: 37.8047px;">
+<td style="width: 49.9157%; height: 37.8047px;">Competencia plurilingüe (CP)</td>
+<td style="width: 49.9157%; height: 37.8047px;">CP2, CP3</td>
+</tr>
+<tr style="height: 66.6094px;">
+<td style="width: 49.9157%; height: 66.6094px;">Competencia matemática y en ciencia, tecnología e ingeniería (STEM)</td>
+<td style="width: 49.9157%; height: 66.6094px;">STEM1, STEM2, STEM3, STEM4</td>
+</tr>
+<tr style="height: 37.8047px;">
+<td style="width: 49.9157%; height: 37.8047px;">Competencia digital (CD)</td>
+<td style="width: 49.9157%; height: 37.8047px;">CD1, CD2, CD3, CD5</td>
+</tr>
+<tr style="height: 66.6094px;">
+<td style="width: 49.9157%; height: 66.6094px;">Competencia personal, social y de aprender a aprender (CPSAA)</td>
+<td style="width: 49.9157%; height: 66.6094px;">CPSAA1, CPSAA3, CPSAA4, CPSAA5</td>
+</tr>
+<tr style="height: 37.8047px;">
+<td style="width: 49.9157%; height: 37.8047px;">Competencia ciudadana (CC)</td>
+<td style="width: 49.9157%; height: 37.8047px;">CC2, CC3, CC4</td>
+</tr>
+<tr style="height: 37.8047px;">
+<td style="width: 49.9157%; height: 37.8047px;">Competencia emprendedora (CE)</td>
+<td style="width: 49.9157%; height: 37.8047px;">CE1, CE3</td>
+</tr>
+<tr style="height: 66.6094px;">
+<td style="width: 49.9157%; height: 66.6094px;">Competencia en conciencia y expresión culturales (CCEC)</td>
+<td style="width: 49.9157%; height: 66.6094px;">CCEC1, CCEC4</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<ul>
+<li>Competencias Específicas, Criterios de Evalación y Saberes básicos. </li>
+</ul>
+<table border="1" style="width: 100.049%; border-color: #2DC26B;">
+<tbody>
+<tr>
+<td style="width: 24.9573%;"><strong>ÁREA</strong></td>
+<td style="width: 24.9573%;"><strong>COMPETENCIAS ESPECÍFICAS</strong></td>
+<td style="width: 24.9573%;"><strong>CRITERIOS DE EVALUACIÓN</strong></td>
+<td style="width: 24.9592%;"><strong>SABERES BÁSICOS</strong></td>
+</tr>
+<tr>
+<td style="width: 24.9573%;"><strong>MATEMÁTICAS</strong></td>
+<td style="width: 24.9573%;">CE1, CE2, CE5, CE6, CE8.</td>
+<td style="width: 24.9573%;">CE1: 1.1, 1.2 <br />CE2: 2.1, 2.2, 2.3 <br />CE5: 5.1 <br />CE6: 6.1, 6.2 <br />CE8: 8.1</td>
+<td style="width: 24.9592%;">
+<p>Bloque A. Sentido numérico: <br />- Estimaciones y aproximaciones razonadas. <br />- Fracciones y decimales en contextos cotidianos. <br />- Selección de operaciones (suma, resta, multiplicación, división). <br />- Resolución de problemas de consumo responsable y uso del dinero. </p>
+<p>Bloque F. Sentido socioafectivo: <br />- Flexibilidad cognitiva y cambio de estrategia. <br />- Valoración del error como aprendizaje. <br />- Respeto por las emociones y experiencias de los demás.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 24.9573%;"><strong>LENGUA CASTELLANA Y LITERATURA</strong></td>
+<td style="width: 24.9573%;">CE4</td>
+<td style="width: 24.9573%;"></td>
+<td style="width: 24.9592%;">Bloque B. Comunicación (Comprensión lectora): <br />- Estrategias de comprensión lectora. <br />- Identificación de ideas principales e inferencias. <br />- Interpretación del sentido global. <br />- Valoración crítica de textos. <br />- Identificación de elementos gráficos y paratextuales. <br />- Lectura compartida y expresiva. <br />- Detección de usos discriminatorios del lenguaje verbal y no verbal.</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775054037743-ure2fw9yd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Competencias clave (descriptores operativos/perfil de salida). </li>\n</ul>\n<table border=\"1\" style=\"width: 100.049%; border-color: #2dc26b; border-style: solid; height: 513.071px;\">\n<tbody>\n<tr style=\"height: 95.4141px;\">\n<td style=\"width: 49.9157%; height: 95.4141px;\"><strong>Competencias Clave</strong></td>\n<td style=\"width: 49.9157%; height: 95.4141px;\"><strong>Descriptores Operativos </strong>(Vinculados a las Competencias Específicas trabajadas en la SdA)</td>\n</tr>\n<tr style=\"height: 66.6094px;\">\n<td style=\"width: 49.9157%; height: 66.6094px;\">Competencia en comunicación lingüística (CCL</td>\n<td style=\"width: 49.9157%; height: 66.6094px;\">CCL1, CCL2, CCL3, CCL5</td>\n</tr>\n<tr style=\"height: 37.8047px;\">\n<td style=\"width: 49.9157%; height: 37.8047px;\">Competencia plurilingüe (CP)</td>\n<td style=\"width: 49.9157%; height: 37.8047px;\">CP2, CP3</td>\n</tr>\n<tr style=\"height: 66.6094px;\">\n<td style=\"width: 49.9157%; height: 66.6094px;\">Competencia matemática y en ciencia, tecnología e ingeniería (STEM)</td>\n<td style=\"width: 49.9157%; height: 66.6094px;\">STEM1, STEM2, STEM3, STEM4</td>\n</tr>\n<tr style=\"height: 37.8047px;\">\n<td style=\"width: 49.9157%; height: 37.8047px;\">Competencia digital (CD)</td>\n<td style=\"width: 49.9157%; height: 37.8047px;\">CD1, CD2, CD3, CD5</td>\n</tr>\n<tr style=\"height: 66.6094px;\">\n<td style=\"width: 49.9157%; height: 66.6094px;\">Competencia personal, social y de aprender a aprender (CPSAA)</td>\n<td style=\"width: 49.9157%; height: 66.6094px;\">CPSAA1, CPSAA3, CPSAA4, CPSAA5</td>\n</tr>\n<tr style=\"height: 37.8047px;\">\n<td style=\"width: 49.9157%; height: 37.8047px;\">Competencia ciudadana (CC)</td>\n<td style=\"width: 49.9157%; height: 37.8047px;\">CC2, CC3, CC4</td>\n</tr>\n<tr style=\"height: 37.8047px;\">\n<td style=\"width: 49.9157%; height: 37.8047px;\">Competencia emprendedora (CE)</td>\n<td style=\"width: 49.9157%; height: 37.8047px;\">CE1, CE3</td>\n</tr>\n<tr style=\"height: 66.6094px;\">\n<td style=\"width: 49.9157%; height: 66.6094px;\">Competencia en conciencia y expresión culturales (CCEC)</td>\n<td style=\"width: 49.9157%; height: 66.6094px;\">CCEC1, CCEC4</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<ul>\n<li>Competencias Específicas, Criterios de Evalación y Saberes básicos. </li>\n</ul>\n<table border=\"1\" style=\"width: 100.049%; border-color: #2DC26B;\">\n<tbody>\n<tr>\n<td style=\"width: 24.9573%;\"><strong>ÁREA</strong></td>\n<td style=\"width: 24.9573%;\"><strong>COMPETENCIAS ESPECÍFICAS</strong></td>\n<td style=\"width: 24.9573%;\"><strong>CRITERIOS DE EVALUACIÓN</strong></td>\n<td style=\"width: 24.9592%;\"><strong>SABERES BÁSICOS</strong></td>\n</tr>\n<tr>\n<td style=\"width: 24.9573%;\"><strong>MATEMÁTICAS</strong></td>\n<td style=\"width: 24.9573%;\">CE1, CE2, CE5, CE6, CE8.</td>\n<td style=\"width: 24.9573%;\">CE1: 1.1, 1.2 <br />CE2: 2.1, 2.2, 2.3 <br />CE5: 5.1 <br />CE6: 6.1, 6.2 <br />CE8: 8.1</td>\n<td style=\"width: 24.9592%;\">\n<p>Bloque A. Sentido numérico: <br />- Estimaciones y aproximaciones razonadas. <br />- Fracciones y decimales en contextos cotidianos. <br />- Selección de operaciones (suma, resta, multiplicación, división). <br />- Resolución de problemas de consumo responsable y uso del dinero. </p>\n<p>Bloque F. Sentido socioafectivo: <br />- Flexibilidad cognitiva y cambio de estrategia. <br />- Valoración del error como aprendizaje. <br />- Respeto por las emociones y experiencias de los demás.</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 24.9573%;\"><strong>LENGUA CASTELLANA Y LITERATURA</strong></td>\n<td style=\"width: 24.9573%;\">CE4</td>\n<td style=\"width: 24.9573%;\"></td>\n<td style=\"width: 24.9592%;\">Bloque B. Comunicación (Comprensión lectora): <br />- Estrategias de comprensión lectora. <br />- Identificación de ideas principales e inferencias. <br />- Interpretación del sentido global. <br />- Valoración crítica de textos. <br />- Identificación de elementos gráficos y paratextuales. <br />- Lectura compartida y expresiva. <br />- Detección de usos discriminatorios del lenguaje verbal y no verbal.</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775049621718-o8y0t0wkw</odePageId>
+  <odeParentPageId>23497e45-3294-4f26-949c-803854c18fa7</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775049621718-o8y0t0wkw</odePageId>
+      <odeBlockId>block-1775054819418-2f4tgzhj5</odeBlockId>
+      <blockName>Metodologías activas</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775049621718-o8y0t0wkw</odePageId>
+          <odeBlockId>block-1775054819418-2f4tgzhj5</odeBlockId>
+          <odeIdeviceId>idevice-1775054819417-lyj0rkafa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La presente situación de aprendizaje se fundamenta en el uso de metodologías activas que sitúan al alumnado en el centro del proceso de enseñanza-aprendizaje, promoviendo su participación, autonomía y desarrollo competencial. Estas metodologías favorecen un aprendizaje significativo y contextualizado, en el que el alumnado construye su propio conocimiento a través de la interacción, la resolución de problemas y la aplicación de los contenidos a situaciones reales.</p>
+<p></p>
+<ul>
+<li>El <strong>aprendizaje cooperativo</strong> se llevará a cabo mediante el trabajo en pequeños grupos heterogéneos, en los que el alumnado asumirá distintos roles (coordinador/a, portavoz, secretario/a y responsable del material), favoreciendo la responsabilidad individual y grupal, así como el desarrollo de habilidades sociales. Esta metodología se aplicará en la resolución de problemas, la elaboración de la lista de compra y la creación de los productos finales.</li>
+<li>Por su parte, el <strong>Aprendizaje Basado en Juegos (ABJ)</strong> se concreta en el “Reto del comprador inteligente”, en el que el alumnado deberá resolver diferentes misiones de compra con un presupuesto limitado, incorporando elementos de juego como retos y objetivos. De este modo, se fomenta la motivación, la toma de decisiones y la aplicación de los contenidos matemáticos en un contexto lúdico y cercano a la realidad.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775054819417-lyj0rkafa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La presente situación de aprendizaje se fundamenta en el uso de metodologías activas que sitúan al alumnado en el centro del proceso de enseñanza-aprendizaje, promoviendo su participación, autonomía y desarrollo competencial. Estas metodologías favorecen un aprendizaje significativo y contextualizado, en el que el alumnado construye su propio conocimiento a través de la interacción, la resolución de problemas y la aplicación de los contenidos a situaciones reales.</p>\n<p></p>\n<ul>\n<li>El <strong>aprendizaje cooperativo</strong> se llevará a cabo mediante el trabajo en pequeños grupos heterogéneos, en los que el alumnado asumirá distintos roles (coordinador/a, portavoz, secretario/a y responsable del material), favoreciendo la responsabilidad individual y grupal, así como el desarrollo de habilidades sociales. Esta metodología se aplicará en la resolución de problemas, la elaboración de la lista de compra y la creación de los productos finales.</li>\n<li>Por su parte, el <strong>Aprendizaje Basado en Juegos (ABJ)</strong> se concreta en el “Reto del comprador inteligente”, en el que el alumnado deberá resolver diferentes misiones de compra con un presupuesto limitado, incorporando elementos de juego como retos y objetivos. De este modo, se fomenta la motivación, la toma de decisiones y la aplicación de los contenidos matemáticos en un contexto lúdico y cercano a la realidad.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775049646611-9mo73mzq4</odePageId>
+  <odeParentPageId>23497e45-3294-4f26-949c-803854c18fa7</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775049646611-9mo73mzq4</odePageId>
+      <odeBlockId>block-1775055437701-p70ioh06b</odeBlockId>
+      <blockName>Vinculación con los proyectos y programas del centro</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775049646611-9mo73mzq4</odePageId>
+          <odeBlockId>block-1775055437701-p70ioh06b</odeBlockId>
+          <odeIdeviceId>idevice-1775055437700-0kmqxhaxq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La presente situación de aprendizaje se vincula con distintos proyectos y programas del centro. En relación con el PLEI (Proyecto Lingüístico de Centro), se favorece la comprensión y producción de textos escritos y multimodales a través de la lectura de enunciados, la interpretación de información y la elaboración de la infografía y el producto digital. En cuanto al PAD (Plan de Atención a la Diversidad), se contemplan diferentes ritmos de aprendizaje, metodologías activas y agrupamientos flexibles, permitiendo la adaptación a las necesidades del alumnado. Asimismo, se relaciona con el PDC (Plan de Desarrollo de la Competencia Digital), mediante el uso de herramientas digitales para la creación de contenidos, fomentando un uso responsable y adecuado de las tecnologías.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775055437700-0kmqxhaxq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La presente situación de aprendizaje se vincula con distintos proyectos y programas del centro. En relación con el PLEI (Proyecto Lingüístico de Centro), se favorece la comprensión y producción de textos escritos y multimodales a través de la lectura de enunciados, la interpretación de información y la elaboración de la infografía y el producto digital. En cuanto al PAD (Plan de Atención a la Diversidad), se contemplan diferentes ritmos de aprendizaje, metodologías activas y agrupamientos flexibles, permitiendo la adaptación a las necesidades del alumnado. Asimismo, se relaciona con el PDC (Plan de Desarrollo de la Competencia Digital), mediante el uso de herramientas digitales para la creación de contenidos, fomentando un uso responsable y adecuado de las tecnologías.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775049781685-vkxrhnb9f</odePageId>
+  <odeParentPageId>23497e45-3294-4f26-949c-803854c18fa7</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775049781685-vkxrhnb9f</odePageId>
+      <odeBlockId>block-1775055577948-a1052q0ga</odeBlockId>
+      <blockName>Actividades complementarias y extraescolares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775049781685-vkxrhnb9f</odePageId>
+          <odeBlockId>block-1775055577948-a1052q0ga</odeBlockId>
+          <odeIdeviceId>idevice-1775055577947-bi5q0dlfw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Como actividad complementaria, se propone la realización de una charla sobre consumo responsable, en la que el alumnado pueda reflexionar sobre el uso adecuado del dinero, la relación calidad-precio y la toma de decisiones de compra. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775055577947-bi5q0dlfw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Como actividad complementaria, se propone la realización de una charla sobre consumo responsable, en la que el alumnado pueda reflexionar sobre el uso adecuado del dinero, la relación calidad-precio y la toma de decisiones de compra. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775049827833-jcg17sra3</odePageId>
+  <odeParentPageId>23497e45-3294-4f26-949c-803854c18fa7</odeParentPageId>
+  <pageName>6. Atribución y descarga</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775049827833-jcg17sra3</odePageId>
+      <odeBlockId>block-1775055605994-intgfivil</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775049827833-jcg17sra3</odePageId>
+          <odeBlockId>block-1775055605994-intgfivil</odeBlockId>
+          <odeIdeviceId>idevice-1775055605993-vrrejjgra</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100.049%; height: 189.023px;">
+<tbody>
+<tr style="height: 37.8047px;">
+<td style="width: 49.9157%; height: 37.8047px;"><strong>Título</strong></td>
+<td style="width: 49.9157%; height: 37.8047px;">Compras en el centro comercial: un reto con números decimales</td>
+</tr>
+<tr style="height: 37.8047px;">
+<td style="width: 49.9157%; height: 37.8047px;"><strong>Descripción</strong></td>
+<td style="width: 49.9157%; height: 37.8047px;">Situación de Aprendizaje para el área de Matemáticas. </td>
+</tr>
+<tr style="height: 37.8047px;">
+<td style="width: 49.9157%; height: 37.8047px;"><strong>Autoría</strong></td>
+<td style="width: 49.9157%; height: 37.8047px;">Lucas Álvarez Sellán</td>
+</tr>
+<tr style="height: 37.8047px;">
+<td style="width: 49.9157%; height: 37.8047px;"><strong>Licencia</strong></td>
+<td style="width: 49.9157%; height: 37.8047px;">
+<p>Creative Commons: Reconocimiento - compartir igual 4.0</p>
+<p><img src="{{context_path}}/content/resources/mceclip0.png" width="208" height="73" /></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775055605993-vrrejjgra","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.049%; height: 189.023px;\">\n<tbody>\n<tr style=\"height: 37.8047px;\">\n<td style=\"width: 49.9157%; height: 37.8047px;\"><strong>Título</strong></td>\n<td style=\"width: 49.9157%; height: 37.8047px;\">Compras en el centro comercial: un reto con números decimales</td>\n</tr>\n<tr style=\"height: 37.8047px;\">\n<td style=\"width: 49.9157%; height: 37.8047px;\"><strong>Descripción</strong></td>\n<td style=\"width: 49.9157%; height: 37.8047px;\">Situación de Aprendizaje para el área de Matemáticas. </td>\n</tr>\n<tr style=\"height: 37.8047px;\">\n<td style=\"width: 49.9157%; height: 37.8047px;\"><strong>Autoría</strong></td>\n<td style=\"width: 49.9157%; height: 37.8047px;\">Lucas Álvarez Sellán</td>\n</tr>\n<tr style=\"height: 37.8047px;\">\n<td style=\"width: 49.9157%; height: 37.8047px;\"><strong>Licencia</strong></td>\n<td style=\"width: 49.9157%; height: 37.8047px;\">\n<p>Creative Commons: Reconocimiento - compartir igual 4.0</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" width=\"208\" height=\"73\" /></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775049827833-jcg17sra3</odePageId>
+      <odeBlockId>block-1775055904369-ksoqw4tnv</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775049827833-jcg17sra3</odePageId>
+          <odeBlockId>block-1775055904369-ksoqw4tnv</odeBlockId>
+          <odeIdeviceId>idevice-1775055904366-9tn8670jp</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Situación de Aprendizaje</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775049827833-jcg17sra3</odePageId>
+      <odeBlockId>block-1775055954042-5wjk76wf1</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775049827833-jcg17sra3</odePageId>
+          <odeBlockId>block-1775055954042-5wjk76wf1</odeBlockId>
+          <odeIdeviceId>idevice-1775055954040-cuhum6c9x</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Situación de Aprendizaje</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
